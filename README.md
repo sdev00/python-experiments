@@ -3,3 +3,4 @@ A collection of Jupyter Notebooks
 
 ## List of files added
 * fireworks.ipynb
+* Copilot Game.ipynb
